@@ -13,5 +13,5 @@ data
 
 # Link to the Research Paper: [https://www.ijeast.com/papers/142-146,%20Tesma0712,IJEAST.pdf]
 
-# This research paper presents a comprehensive analysis of the efficiency of a sewage treatment plant using data science techniques. The findings underscore the significance of data-driven approaches in identifying operational inefficiencies and optimizing plant performance. The results emphasize the need for continuous monitoring, data collection, and analysis to ensure the long-term sustainability of sewage treatment facilities. By embracing data science methodologies, stakeholders can enhance the effectiveness of sewage treatment plants and contribute to a cleaner and healthier environment.
+This research paper presents a comprehensive analysis of the efficiency of a sewage treatment plant using data science techniques. The findings underscore the significance of data-driven approaches in identifying operational inefficiencies and optimizing plant performance. The results emphasize the need for continuous monitoring, data collection, and analysis to ensure the long-term sustainability of sewage treatment facilities. By embracing data science methodologies, stakeholders can enhance the effectiveness of sewage treatment plants and contribute to a cleaner and healthier environment.
 
